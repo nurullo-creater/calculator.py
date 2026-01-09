@@ -1,4 +1,3 @@
-# calculator.py
 a = float(input("Enter first number: "))
 b = float(input("Enter second number: "))
 
@@ -23,3 +22,4 @@ elif choice == "4":
         print("Cannot divide by zero")
 else:
     print("Invalid choice")
+
